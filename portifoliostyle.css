@@ -1,0 +1,32 @@
+<style>
+body {
+     background-color:#f1f1ef;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    border-radius: 20%;
+   }
+div {
+    text-align:center;
+
+}
+h1 {
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:#653239;
+}
+p {
+    color: #653239;
+}
+ul {
+    color:#313715;
+}
+ol {
+    color: #313715;
+}
+.about-me-style {
+    color:#313715;
+    text-align: justify;
+}
+
+ </style>
